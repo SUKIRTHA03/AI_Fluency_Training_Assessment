@@ -1,0 +1,9 @@
+{
+  "student": "Nandhanaa",
+  "tasks": [
+    {"id": 1, "task": "Practice Arrays", "subject": "DSA", "priority": "High", "status": "Pending", "hours": 2},
+    {"id": 2, "task": "Practice SQL Joins", "subject": "SQL", "priority": "Medium", "status": "Pending", "hours": 1},
+    {"id": 3, "task": "Revise Operating Systems", "subject": "OS", "priority": "Low", "status": "Pending", "hours": 1},
+    {"id": 4, "task": "Solve Sliding Window Problems", "subject": "DSA", "priority": "High", "status": "Pending", "hours": 2}
+  ]
+}

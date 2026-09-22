@@ -1,0 +1,9 @@
+PLAIN CHATBOT
+User: What should I study first from my private task list?
+
+Plain Chatbot Response:
+I can suggest a study plan based on the information in your message,
+but I cannot inspect your private study_tasks JSON file because no
+private-data tool is connected.
+
+Suggestion: Prioritize high-priority DSA work, then SQL, then OS.

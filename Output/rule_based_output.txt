@@ -1,0 +1,11 @@
+RULE-BASED WORKFLOW
+User: What should I study first from my private task list?
+
+Private data accessed: YES
+Fixed rules: Pending tasks -> High -> Medium -> Low
+
+Recommended tasks:
+- Practice Arrays (DSA, High, 2h)
+- Solve Sliding Window Problems (DSA, High, 2h)
+- Practice SQL Joins (SQL, Medium, 1h)
+- Revise Operating Systems (OS, Low, 1h)

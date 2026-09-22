@@ -1,0 +1,12 @@
+AI AGENT
+User: What should I study first from my private task list?
+
+Loop 1 -> Reason: I need the user's private study tasks.
+Tool 1 -> read_private_tasks()
+Loop 2 -> Observe: private task data received.
+Tool 2 -> get_pending_tasks()
+Loop 3 -> Reason: use the observed private data to answer.
+Loop 4 -> Final answer:
+The highest-priority pending tasks are the two DSA tasks:
+Practice Arrays and Solve Sliding Window Problems. Start with one of
+these because both are high priority, then move to SQL and OS.
